@@ -1,2 +1,0 @@
-# mvpn
-privacy
